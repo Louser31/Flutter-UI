@@ -1,4 +1,5 @@
 Original Developer -> Mitesh Chodvadiya
+<br>
 Do check His Work -> https://github.com/mitesh77
 
 
@@ -6,10 +7,10 @@ Do check His Work -> https://github.com/mitesh77
 # Best-Flutter-UI-Templates
 completely free for everyone. Its build-in Flutter Dart.
 
-![Image](best_flutter_ui_templates/assets/hotel/hotel_booking.png)
-![Image](best_flutter_ui_templates/assets/fitness_app/fitness_app.png)
+![Image](Android/assets/hotel/hotel_booking.png)
+![Image](Android/assets/fitness_app/fitness_app.png)
 ![Image](images/custom_drawer.png)
-![Image](best_flutter_ui_templates/assets/design_course/design_course.png)
+![Image](Android/assets/design_course/design_course.png)
 
 ### Some Screenshots
 
